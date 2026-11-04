@@ -6,6 +6,10 @@ A responsive single-page portfolio website presenting Sana Ullah Raja's experien
 
 Open `index.html` in a browser.
 
+## Add the profile photo
+
+Save the portrait image as `assets/sana-ullah-raja.jpg` in this repository. The website references this path. Keep the image cropped as a head-and-shoulders portrait for best results.
+
 ## Publish with GitHub Pages
 
 1. Open this repository's **Settings → Pages**.
@@ -17,4 +21,4 @@ This repository is public because the portfolio site is intended to be public. I
 
 ## Please verify before sharing
 
-Check your contact details, experience dates, achievement metrics, tools, and relocation information. The portfolio presents sales outcomes as reported in the supplied résumé. The old `sunnyraja.dorik.io` website is not linked because you said it is currently unavailable.
+Check your contact details, experience dates, achievement metrics, tools, and relocation information. The portfolio presents sales outcomes as reported in the supplied résumé. The old `sunnyraja.dorik.io` website is not linked because it is currently unavailable.
